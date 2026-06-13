@@ -63,10 +63,8 @@ A practice repository for Git fundamentals and version control workflows.
 
 I'd love to collaborate or just chat about tech!
 
-- 💼 [LinkedIn](https://linkedin.com/in/yourprofile)
-- 🐦 [Twitter/X](https://twitter.com/yourhandle)
-- 📧 Email: your.email@example.com
-- 🌐 [Personal Website](https://yourwebsite.com)
+- 💼 [LinkedIn]([https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/shravan-ambavale-67362a311/))
+
 
 ## ⚡ Fun Facts
 
